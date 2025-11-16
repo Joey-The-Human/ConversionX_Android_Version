@@ -1,0 +1,6 @@
+com.android.myapplication.test.app-core-1.7.0-0 C:\Users\bowma\.gradle\caches\8.13\transforms\9d4e77f4806298f8dede422ef44a3f71\transformed\core-1.7.0\res
+com.android.myapplication.test.app-androidTest-1 C:\Users\bowma\OneDrive\Documentos\AndroidApp\ConversionX_Android_Version\AndroidApp\app\build\generated\res\resValues\androidTest\debug
+com.android.myapplication.test.app-updated_navigation_xml-2 C:\Users\bowma\OneDrive\Documentos\AndroidApp\ConversionX_Android_Version\AndroidApp\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.android.myapplication.test.app-mergeDebugAndroidTestResources-3 C:\Users\bowma\OneDrive\Documentos\AndroidApp\ConversionX_Android_Version\AndroidApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.android.myapplication.test.app-mergeDebugAndroidTestResources-4 C:\Users\bowma\OneDrive\Documentos\AndroidApp\ConversionX_Android_Version\AndroidApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.android.myapplication.test.app-debugAndroidTest-5 C:\Users\bowma\OneDrive\Documentos\AndroidApp\ConversionX_Android_Version\AndroidApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

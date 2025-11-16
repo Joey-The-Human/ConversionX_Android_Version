@@ -3,7 +3,25 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/FirstFragment">
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@id/nav_home"
+        android:name="com.android.myapplication.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@id/nav_tools"
+        android:name="com.android.myapplication.ToolsFragment"
+        android:label="Tools"
+        tools:layout="@layout/fragment_tools" />
+
+    <fragment
+        android:id="@id/nav_finance"
+        android:name="com.android.myapplication.FinanceFragment"
+        android:label="Finance"
+        tools:layout="@layout/fragment_finance" />
 
     <fragment
         android:id="@+id/FirstFragment"
